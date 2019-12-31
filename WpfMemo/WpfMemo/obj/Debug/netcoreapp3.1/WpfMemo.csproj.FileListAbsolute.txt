@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\WpfMemo\WpfMemo\bin\Debug\netcoreapp3.1\WpfMemo.exe
+C:\Users\user\source\repos\WpfMemo\WpfMemo\bin\Debug\netcoreapp3.1\WpfMemo.deps.json
+C:\Users\user\source\repos\WpfMemo\WpfMemo\bin\Debug\netcoreapp3.1\WpfMemo.runtimeconfig.json
+C:\Users\user\source\repos\WpfMemo\WpfMemo\bin\Debug\netcoreapp3.1\WpfMemo.runtimeconfig.dev.json
+C:\Users\user\source\repos\WpfMemo\WpfMemo\bin\Debug\netcoreapp3.1\WpfMemo.dll
+C:\Users\user\source\repos\WpfMemo\WpfMemo\bin\Debug\netcoreapp3.1\WpfMemo.pdb
+C:\Users\user\source\repos\WpfMemo\WpfMemo\obj\Debug\netcoreapp3.1\WpfMemo.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WpfMemo\WpfMemo\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\user\source\repos\WpfMemo\WpfMemo\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\user\source\repos\WpfMemo\WpfMemo\obj\Debug\netcoreapp3.1\WpfMemo_MarkupCompile.cache
+C:\Users\user\source\repos\WpfMemo\WpfMemo\obj\Debug\netcoreapp3.1\WpfMemo_MarkupCompile.lref
+C:\Users\user\source\repos\WpfMemo\WpfMemo\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\user\source\repos\WpfMemo\WpfMemo\obj\Debug\netcoreapp3.1\WpfMemo.g.resources
+C:\Users\user\source\repos\WpfMemo\WpfMemo\obj\Debug\netcoreapp3.1\WpfMemo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WpfMemo\WpfMemo\obj\Debug\netcoreapp3.1\WpfMemo.AssemblyInfo.cs
+C:\Users\user\source\repos\WpfMemo\WpfMemo\obj\Debug\netcoreapp3.1\WpfMemo.dll
+C:\Users\user\source\repos\WpfMemo\WpfMemo\obj\Debug\netcoreapp3.1\WpfMemo.pdb
